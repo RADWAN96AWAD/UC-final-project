@@ -4,31 +4,17 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+  اسم الطالب
 
-
+رضوان عواد
 ### اسم المشروع
-
+الحياة الصحية
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+موقع اسشارة الحياة الصحية عن طريق الاكل او الترفيه الى جوانب الحياة المتعددة والمميزة
 
 # الأعمال المستقبلية
 
-
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
